@@ -1,12 +1,21 @@
+Code for "Pseudo-Label-Assisted Subdomain Adaptation for Hyperspectral Image Classification".
+Zhixi Feng, Shilin Tong, Shuyuan Yang, Xinyu Zhang, and Licheng Jiao
+Xidian University
+
 # Requirements
 
 ```
-
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+scipy==1.11.3
+matplotlib==3.8.1
+scikit-learn==1.3.2
 ```
 
 # 
 
-# datasets
+# Datasets
 
 You can download the hyperspectral datasets in mat format at: https://pan.baidu.com/s/1QVSSiKxxgvOcnjHYt3INPQ?pwd=pexg, and move the files to `./datasets` folder.
 
@@ -40,6 +49,6 @@ Take PASDA method on the pavia dataset as an example:
 3. Run the command: pip install -r requirements.txt
 4. Run pavia.py. 
 
-# thanks:
+# Thanks:
 Some of our code references the projects
 https://github.com/Li-ZK/CLDA-2022
