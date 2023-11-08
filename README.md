@@ -1,5 +1,5 @@
-Code for "Pseudo-Label-Assisted Subdomain Adaptation for Hyperspectral Image Classification".
-Zhixi Feng, Shilin Tong, Shuyuan Yang, Xinyu Zhang, and Licheng Jiao
+Code for "Pseudo-Label-Assisted Subdomain Adaptation for Hyperspectral Image Classification".\\
+Zhixi Feng, Shilin Tong, Shuyuan Yang, Xinyu Zhang, and Licheng Jiao\\
 Xidian University
 
 # Requirements
