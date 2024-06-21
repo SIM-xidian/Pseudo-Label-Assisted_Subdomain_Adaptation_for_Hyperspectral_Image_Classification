@@ -53,3 +53,14 @@ Take PASDA method on the pavia dataset as an example:
 # Thanks:
 Some of our code references the projects
 https://github.com/Li-ZK/CLDA-2022
+
+# Citation
+@ARTICLE{10309248,
+  author={Feng, Zhixi and Tong, Shilin and Yang, Shuyuan and Zhang, Xinyu and Jiao, Licheng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Pseudo-Label-Assisted Subdomain Adaptation for Hyperspectral Image Classification}, 
+  year={2024},
+  volume={34},
+  number={6},
+  pages={4729-4744},
+  doi={10.1109/TCSVT.2023.3330193}}
